@@ -1,302 +1,382 @@
 [
   {
-    "name": "Robert Walpole",
-    "id": 1
+    "id": 1,
+    "party": "Whig",
+    "name": "Robert Walpole"
   },
   {
-    "name": "Robert Spencer Compton",
-    "id": 2
+    "id": 2,
+    "party": "Whig",
+    "name": "Spencer Compton"
   },
   {
-    "name": "Henry Pelham",
-    "id": 3
+    "id": 3,
+    "party": "Whig",
+    "name": "Henry Pelham"
   },
   {
-    "name": "Thomas Pelham-Holles",
-    "id": 4
+    "id": 4,
+    "party": "Whig",
+    "name": "Thomas Pelham-Holles"
   },
   {
-    "name": "William Cavendish",
-    "id": 5
+    "id": 5,
+    "party": "Whig",
+    "name": "William Cavendish"
   },
   {
-    "name": "Thomas Pelham-Holles",
-    "id": 6
+    "id": 6,
+    "party": "Whig",
+    "name": "Thomas Pelham-Holles"
   },
   {
-    "name": "John Stuart",
-    "id": 7
+    "id": 7,
+    "party": "Tory",
+    "name": "John Stuart"
   },
   {
-    "name": "George Grenville",
-    "id": 8
+    "id": 8,
+    "party": "Whig",
+    "name": "George Grenville"
   },
   {
-    "name": "Charles Watson-Wentworth",
-    "id": 9
+    "id": 9,
+    "party": "Whig",
+    "name": "Charles Watson-Wentworth"
   },
   {
-    "name": "William Pitt",
-    "id": 10
+    "id": 10,
+    "party": "Whig",
+    "name": "William Pitt"
   },
   {
-    "name": "Augustus FitzRoy",
-    "id": 11
+    "id": 11,
+    "party": "Whig",
+    "name": "Augustus FitzRoy"
   },
   {
-    "name": "Frederick North",
-    "id": 12
+    "id": 12,
+    "party": "Tory",
+    "name": "Frederick North"
   },
   {
-    "name": "Charles Watson-Wentworth",
-    "id": 13
+    "id": 13,
+    "party": "Whig",
+    "name": "Charles Watson-Wentworth"
   },
   {
-    "name": "William Petty",
-    "id": 14
+    "id": 14,
+    "party": "Whig",
+    "name": "William Petty"
   },
   {
-    "name": "William Cavendish-Bentinck",
-    "id": 15
+    "id": 15,
+    "party": "Whig",
+    "name": "William Cavendish-Bentinck"
   },
   {
-    "name": "William Pitt The Younger",
-    "id": 16
+    "id": 16,
+    "party": "Tory",
+    "name": "William Pitt The Younger"
   },
   {
-    "name": "Henry Addington",
-    "id": 17
+    "id": 17,
+    "party": "Tory",
+    "name": "Henry Addington"
   },
   {
-    "name": "William Pitt The Younger",
-    "id": 18
+    "id": 18,
+    "party": "Tory",
+    "name": "William Pitt The Younger"
   },
   {
-    "name": "William Grenville",
-    "id": 19
+    "id": 19,
+    "party": "Whig",
+    "name": "William Grenville"
   },
   {
-    "name": "William Cavendish-Bentinck",
-    "id": 20
+    "id": 20,
+    "party": "Tory",
+    "name": "William Cavendish-Bentinck"
   },
   {
-    "name": "Spencer Perceval",
-    "id": 21
+    "id": 21,
+    "party": "Tory",
+    "name": "Spencer Perceval"
   },
   {
-    "name": "Robert Jenkinson",
-    "id": 22
+    "id": 22,
+    "party": "Tory",
+    "name": "Robert Jenkinson"
   },
   {
-    "name": "George Canning",
-    "id": 23
+    "id": 23,
+    "party": "Tory",
+    "name": "George Canning"
   },
   {
-    "name": "Frederick John Robinson",
-    "id": 24
+    "id": 24,
+    "party": "Tory",
+    "name": "Frederick John Robinson"
   },
   {
-    "name": "Arthur Wellesley",
-    "id": 25
+    "id": 25,
+    "party": "Tory",
+    "name": "Arthur Wellesley"
   },
   {
-    "name": "Charles Grey",
-    "id": 26
+    "id": 26,
+    "party": "Whig",
+    "name": "Charles Grey"
   },
   {
-    "name": "William Lamb",
-    "id": 27
+    "id": 27,
+    "party": "Whig",
+    "name": "William Lamb"
   },
   {
-    "name": "Arthur Wellesley",
-    "id": 28
+    "id": 28,
+    "party": "Tory",
+    "name": "Arthur Wellesley"
   },
   {
-    "name": "Robert Peel",
-    "id": 29
+    "id": 29,
+    "party": "Conservative",
+    "name": "Robert Peel"
   },
   {
-    "name": "William Lamb",
-    "id": 30
+    "id": 30,
+    "party": "Whig",
+    "name": "William Lamb"
   },
   {
-    "name": "Robert Peel",
-    "id": 31
+    "id": 31,
+    "party": "Conservative",
+    "name": "Robert Peel"
   },
   {
-    "name": "John Russell",
-    "id": 32
+    "id": 32,
+    "party": "Whig",
+    "name": "John Russell"
   },
   {
-    "name": "Edward Smith-Stanley",
-    "id": 33
+    "id": 33,
+    "party": "Conservative",
+    "name": "Edward Smith-Stanley"
   },
   {
-    "name": "George Hamilton-Gordon",
-    "id": 34
+    "id": 34,
+    "party": "Peelite",
+    "name": "George Hamilton-Gordon"
   },
   {
-    "name": "Henry John Temple",
-    "id": 35
+    "id": 35,
+    "party": "Whig",
+    "name": "Henry John Temple"
   },
   {
-    "name": "Edward Smith-Stanley",
-    "id": 36
+    "id": 36,
+    "party": "Conservative",
+    "name": "Edward Smith-Stanley"
   },
   {
-    "name": "Henry John Temple",
-    "id": 37
+    "id": 37,
+    "party": "Liberal",
+    "name": "Henry John Temple"
   },
   {
-    "name": "John Russell",
-    "id": 38
+    "id": 38,
+    "party": "Liberal",
+    "name": "John Russell"
   },
   {
-    "name": "Edward Smith-Stanley",
-    "id": 39
+    "id": 39,
+    "party": "Conservative",
+    "name": "Edward Smith-Stanley"
   },
   {
-    "name": "Benjamin Disraeli",
-    "id": 40
+    "id": 40,
+    "party": "Conservative",
+    "name": "Benjamin Disraeli"
   },
   {
-    "name": "William Ewart Gladstone",
-    "id": 41
+    "id": 41,
+    "party": "Liberal",
+    "name": "William Ewart Gladstone"
   },
   {
-    "name": "Benjamin Disraeli",
-    "id": 42
+    "id": 42,
+    "party": "Conservative",
+    "name": "Benjamin Disraeli"
   },
   {
-    "name": "William Ewart Gladstone",
-    "id": 43
+    "id": 43,
+    "party": "Liberal",
+    "name": "William Ewart Gladstone"
   },
   {
-    "name": "Robert Gascoyne-Cecil",
-    "id": 44
+    "id": 44,
+    "party": "Conservative",
+    "name": "Robert Gascoyne-Cecil"
   },
   {
-    "name": "William Ewart Gladstone",
-    "id": 45
+    "id": 45,
+    "party": "Liberal",
+    "name": "William Ewart Gladstone"
   },
   {
-    "name": "Robert Gascoyne-Cecil",
-    "id": 46
+    "id": 46,
+    "party": "Conservative",
+    "name": "Robert Gascoyne-Cecil"
   },
   {
-    "name": "Archibald Primrose",
-    "id": 47
+    "id": 47,
+    "party": "Liberal",
+    "name": "William Ewart Gladstone"
   },
   {
-    "name": "Robert Gascoyne-Cecil",
-    "id": 48
+    "id": 48,
+    "party": "Liberal",
+    "name": "Archibald Primrose"
   },
   {
-    "name": "Arthur Balfour",
-    "id": 49
+    "id": 49,
+    "party": "Conservative",
+    "name": "Robert Gascoyne-Cecil"
   },
   {
-    "name": "Henry Campbell-Bannerman",
-    "id": 50
+    "id": 50,
+    "party": "Conservative",
+    "name": "Arthur Balfour"
   },
   {
-    "name": "Herbert Henry Asquith",
-    "id": 51
+    "id": 51,
+    "party": "Liberal",
+    "name": "Henry Campbell-Bannerman"
   },
   {
-    "name": "David Lloyd George",
-    "id": 52
+    "id": 52,
+    "party": "Liberal",
+    "name": "Herbert Henry Asquith"
   },
   {
-    "name": "Bonar Law",
-    "id": 53
+    "id": 53,
+    "party": "Liberal",
+    "name": "David Lloyd George"
   },
   {
-    "name": "Stanley Baldwin",
-    "id": 54
+    "id": 54,
+    "party": "Conservative",
+    "name": "Bonar Law"
   },
   {
-    "name": "Ramsay MacDonald",
-    "id": 55
+    "id": 55,
+    "party": "Conservative",
+    "name": "Stanley Baldwin"
   },
   {
-    "name": "Stanley Baldwin",
-    "id": 56
+    "id": 56,
+    "party": "Labour",
+    "name": "Ramsay MacDonald"
   },
   {
-    "name": "Ramsay MacDonald",
-    "id": 57
+    "id": 57,
+    "party": "Conservative",
+    "name": "Stanley Baldwin"
   },
   {
-    "name": "Stanley Baldwin",
-    "id": 58
+    "id": 58,
+    "party": "Labour",
+    "name": "Ramsay MacDonald"
   },
   {
-    "name": "Neville Chamberlain",
-    "id": 59
+    "id": 59,
+    "party": "Conservative",
+    "name": "Stanley Baldwin"
   },
   {
-    "name": "Winston Churchill",
-    "id": 60
+    "id": 60,
+    "party": "Conservative",
+    "name": "Neville Chamberlain"
   },
   {
-    "name": "Clement Atlee",
-    "id": 61
+    "id": 61,
+    "party": "Conservative",
+    "name": "Winston Churchill"
   },
   {
-    "name": "Winston Churchill",
-    "id": 62
+    "id": 62,
+    "party": "Labour",
+    "name": "Clement Atlee"
   },
   {
-    "name": "Anthony Eden",
-    "id": 63
+    "id": 63,
+    "party": "Conservative",
+    "name": "Winston Churchill"
   },
   {
-    "name": "Harold Macmillan",
-    "id": 64
+    "id": 64,
+    "party": "Conservative",
+    "name": "Anthony Eden"
   },
   {
-    "name": "Alec Douglas-Home",
-    "id": 65
+    "id": 65,
+    "party": "Conservative",
+    "name": "Harold Macmillan"
   },
   {
-    "name": "Harold Wilson",
-    "id": 66
+    "id": 66,
+    "party": "Conservative",
+    "name": "Alec Douglas-Home"
   },
   {
-    "name": "Edward Heath",
-    "id": 67
+    "id": 67,
+    "party": "Labour",
+    "name": "Harold Wilson"
   },
   {
-    "name": "Harold Wilson",
-    "id": 68
+    "id": 68,
+    "party": "Conservative",
+    "name": "Edward Heath"
   },
   {
-    "name": "James Callaghan",
-    "id": 69
+    "id": 69,
+    "party": "Labour",
+    "name": "Harold Wilson"
   },
   {
-    "name": "Margaret Thatcher",
-    "id": 70
+    "id": 70,
+    "party": "Labour",
+    "name": "James Callaghan"
   },
   {
-    "name": "John Major",
-    "id": 71
+    "id": 71,
+    "party": "Conservative",
+    "name": "Margaret Thatcher"
   },
   {
-    "name": "Tony Blair",
-    "id": 72
+    "id": 72,
+    "party": "Conservative",
+    "name": "John Major"
   },
   {
-    "name": "Gordon Brown",
-    "id": 73
+    "id": 73,
+    "party": "Labour",
+    "name": "Tony Blair"
   },
   {
-    "name": "David Cameron",
-    "id": 74
+    "id": 74,
+    "party": "Labour",
+    "name": "Gordon Brown"
   },
   {
-    "name": "Theresa May",
-    "id": 75
+    "id": 75,
+    "party": "Conservative",
+    "name": "David Cameron"
+  },
+  {
+    "id": 76,
+    "party": "Conservative",
+    "name": "Theresa May"
   }
 ]
