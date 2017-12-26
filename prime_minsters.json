@@ -1,610 +1,933 @@
 [
   {
+    "style": "The Right Honourable",
     "name": "Robert Walpole",
-    "party": "Whig",
-    "style": "The Right Honourable",
     "end_date": "1742-02-11",
-    "id": 1,
-    "start_date": "1721-04-04"
+    "start_date": "1721-04-04",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Chancellor of the Exchequer",
+      "Leader of the House of Commons"
+    ],
+    "party": "Whig",
+    "id": 1
   },
   {
+    "style": "The Right Honourable",
     "name": "Spencer Compton",
-    "party": "Whig",
-    "style": "The Right Honourable",
     "end_date": "1743-07-02",
-    "id": 2,
-    "start_date": "1742-02-16"
+    "start_date": "1742-02-16",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury"
+    ],
+    "party": "Whig",
+    "id": 2
   },
   {
+    "style": "The Right Honourable",
     "name": "Henry Pelham",
-    "party": "Whig",
-    "style": "The Right Honourable",
     "end_date": "1754-03-06",
-    "id": 3,
-    "start_date": "1743-08-27"
+    "start_date": "1743-08-27",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Chancellor of the Exchequer",
+      "Leader of the House of Commons"
+    ],
+    "party": "Whig",
+    "id": 3
   },
   {
-    "name": "Thomas Pelham-Holles",
-    "party": "Whig",
     "style": "His Grace",
+    "name": "Thomas Pelham-Holles",
     "end_date": "1756-11-16",
-    "id": 4,
-    "start_date": "1754-03-16"
+    "start_date": "1754-03-16",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
+    "party": "Whig",
+    "id": 4
   },
   {
+    "style": "His Grace",
     "name": "William Cavendish",
-    "party": "Whig",
-    "style": "His Grace",
     "end_date": "1757-06-25",
-    "id": 5,
-    "start_date": "1756-11-16"
+    "start_date": "1756-11-16",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
+    "party": "Whig",
+    "id": 5
   },
   {
+    "style": "His Grace",
     "name": "Thomas Pelham-Holles",
-    "party": "Whig",
-    "style": "His Grace",
     "end_date": "1762-05-26",
-    "id": 6,
-    "start_date": "1757-07-02"
+    "start_date": "1757-07-02",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
+    "party": "Whig",
+    "id": 6
   },
   {
+    "style": "The Right Honourable",
     "name": "John Stuart",
-    "party": "Tory",
-    "style": "The Right Honourable",
     "end_date": "1763-04-08",
-    "id": 7,
-    "start_date": "1762-05-26"
+    "start_date": "1762-05-26",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
+    "party": "Tory",
+    "id": 7
   },
   {
+    "style": "The Right Honourable",
     "name": "George Grenville",
-    "party": "Whig",
-    "style": "The Right Honourable",
     "end_date": "1765-07-13",
-    "id": 8,
-    "start_date": "1763-04-16"
+    "start_date": "1763-04-16",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Chancellor of the Exchequer",
+      "Leader of the House of Commons"
+    ],
+    "party": "Whig",
+    "id": 8
   },
   {
-    "name": "Charles Watson-Wentworth",
-    "party": "Whig",
     "style": "The Most Honourable",
+    "name": "Charles Watson-Wentworth",
     "end_date": "1766-07-30",
-    "id": 9,
-    "start_date": "1765-07-13"
+    "start_date": "1765-07-13",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
+    "party": "Whig",
+    "id": 9
   },
   {
+    "style": "The Right Honourable",
     "name": "William Pitt",
-    "party": "Whig",
-    "style": "The Right Honourable",
     "end_date": "1768-10-14",
-    "id": 10,
-    "start_date": "1766-07-30"
+    "start_date": "1766-07-30",
+    "portfolios_during_tenure": [
+      "Lord Keeper of the Privy Seal"
+    ],
+    "party": "Whig",
+    "id": 10
   },
   {
+    "style": "His Grace",
     "name": "Augustus FitzRoy",
-    "party": "Whig",
-    "style": "His Grace",
     "end_date": "1770-01-28",
-    "id": 11,
-    "start_date": "1768-10-14"
+    "start_date": "1768-10-14",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
+    "party": "Whig",
+    "id": 11
   },
   {
+    "style": "The Right Honourable",
     "name": "Frederick North",
-    "party": "Tory",
-    "style": "The Right Honourable",
     "end_date": "1782-03-22",
-    "id": 12,
-    "start_date": "1770-01-28"
+    "start_date": "1770-01-28",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Chancellor of the Exchequer",
+      "Leader of the House of Commons"
+    ],
+    "party": "Tory",
+    "id": 12
   },
   {
+    "style": "The Most Honourable",
     "name": "Charles Watson-Wentworth",
-    "party": "Whig",
-    "style": "The Most Honourable",
     "end_date": "1782-07-01",
-    "id": 13,
-    "start_date": "1782-03-27"
+    "start_date": "1782-03-27",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
+    "party": "Whig",
+    "id": 13
   },
   {
+    "style": "The Right Honourable",
     "name": "William Petty",
-    "party": "Whig",
-    "style": "The Right Honourable",
     "end_date": "1783-04-02",
-    "id": 14,
-    "start_date": "1782-07-04"
+    "start_date": "1782-07-04",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
+    "party": "Whig",
+    "id": 14
   },
   {
-    "name": "William Cavendish-Bentinck",
-    "party": "Whig",
     "style": "His Grace",
+    "name": "William Cavendish-Bentinck",
     "end_date": "1783-12-19",
-    "id": 15,
-    "start_date": "1783-04-02"
+    "start_date": "1783-04-02",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
+    "party": "Whig",
+    "id": 15
   },
   {
-    "name": "William Pitt The Younger",
-    "party": "Tory",
     "style": "The Right Honourable",
+    "name": "William Pitt The Younger",
     "end_date": "1801-03-14",
-    "id": 16,
-    "start_date": "1783-12-19"
+    "start_date": "1783-12-19",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Chancellor of the Exchequer",
+      "Leader of the House of Commons"
+    ],
+    "party": "Tory",
+    "id": 16
   },
   {
+    "style": "The Right Honourable",
     "name": "Henry Addington",
-    "party": "Tory",
-    "style": "The Right Honourable",
     "end_date": "1804-05-10",
-    "id": 17,
-    "start_date": "1801-03-17"
+    "start_date": "1801-03-17",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Chancellor of the Exchequer",
+      "Leader of the House of Commons"
+    ],
+    "party": "Tory",
+    "id": 17
   },
   {
+    "style": "The Right Honourable",
     "name": "William Pitt The Younger",
-    "party": "Tory",
-    "style": "The Right Honourable",
     "end_date": "1806-01-23",
-    "id": 18,
-    "start_date": "1804-05-10"
+    "start_date": "1804-05-10",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Chancellor of the Exchequer",
+      "Leader of the House of Commons"
+    ],
+    "party": "Tory",
+    "id": 18
   },
   {
+    "style": "The Right Honourable",
     "name": "William Grenville",
-    "party": "Whig",
-    "style": "The Right Honourable",
     "end_date": "1807-03-31",
-    "id": 19,
-    "start_date": "1806-02-11"
+    "start_date": "1806-02-11",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
+    "party": "Whig",
+    "id": 19
   },
   {
-    "name": "William Cavendish-Bentinck",
-    "party": "Tory",
     "style": "His Grace",
+    "name": "William Cavendish-Bentinck",
     "end_date": "1809-10-04",
-    "id": 20,
-    "start_date": "1807-03-31"
+    "start_date": "1807-03-31",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury"
+    ],
+    "party": "Tory",
+    "id": 20
   },
   {
+    "style": "The Right Honourable",
     "name": "Spencer Perceval",
-    "party": "Tory",
-    "style": "The Right Honourable",
     "end_date": "1812-05-11",
-    "id": 21,
-    "start_date": "1809-10-04"
+    "start_date": "1809-10-04",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Chancellor of the Exchequer",
+      "Chancellor of the Duchy of Lancaster",
+      "Leader of the House of Commons"
+    ],
+    "party": "Tory",
+    "id": 21
   },
   {
+    "style": "The Right Honourable",
     "name": "Robert Jenkinson",
-    "party": "Tory",
-    "style": "The Right Honourable",
     "end_date": "1827-04-09",
-    "id": 22,
-    "start_date": "1812-06-08"
+    "start_date": "1812-06-08",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
+    "party": "Tory",
+    "id": 22
   },
   {
+    "style": "The Right Honourable",
     "name": "George Canning",
-    "party": "Tory",
-    "style": "The Right Honourable",
     "end_date": "1827-08-08",
-    "id": 23,
-    "start_date": "1827-04-10"
+    "start_date": "1827-04-10",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Chancellor of the Exchequer",
+      "Leader of the House of Commons"
+    ],
+    "party": "Tory",
+    "id": 23
   },
   {
+    "style": "The Right Honourable",
     "name": "Frederick John Robinson",
-    "party": "Tory",
-    "style": "The Right Honourable",
     "end_date": "1828-01-21",
-    "id": 24,
-    "start_date": "1827-08-31"
+    "start_date": "1827-08-31",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
+    "party": "Tory",
+    "id": 24
   },
   {
-    "name": "Arthur Wellesley",
-    "party": "Tory",
     "style": "Field Marshal His Grace",
-    "end_date": "1830-11-16",
-    "id": 25,
-    "start_date": "1828-01-22"
-  },
-  {
-    "name": "Charles Grey",
-    "party": "Whig",
-    "style": "The Right Honourable",
-    "end_date": "1834-07-09",
-    "id": 26,
-    "start_date": "1830-11-22"
-  },
-  {
-    "name": "William Lamb",
-    "party": "Whig",
-    "style": "The Right Honourable",
-    "end_date": "1834-11-14",
-    "id": 27,
-    "start_date": "1834-07-16"
-  },
-  {
     "name": "Arthur Wellesley",
+    "end_date": "1830-11-16",
+    "start_date": "1828-01-22",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
     "party": "Tory",
-    "style": "The Right Honourable",
-    "end_date": "1834-12-10",
-    "id": 28,
-    "start_date": "1834-11-14"
+    "id": 25
   },
   {
-    "name": "Robert Peel",
-    "party": "Conservative",
     "style": "The Right Honourable",
-    "end_date": "1835-04-08",
-    "id": 29,
-    "start_date": "1834-12-10"
+    "name": "Charles Grey",
+    "end_date": "1834-07-09",
+    "start_date": "1830-11-22",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
+    "party": "Whig",
+    "id": 26
   },
   {
+    "style": "The Right Honourable",
     "name": "William Lamb",
+    "end_date": "1834-11-14",
+    "start_date": "1834-07-16",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
     "party": "Whig",
-    "style": "The Right Honourable",
-    "end_date": "1841-08-30",
-    "id": 30,
-    "start_date": "1834-04-18"
+    "id": 27
   },
   {
+    "style": "The Right Honourable",
+    "name": "Arthur Wellesley",
+    "end_date": "1834-12-10",
+    "start_date": "1834-11-14",
+    "portfolios_during_tenure": [
+      "First Lord of the TreasurySec. of State for the Home Department",
+      "Sec. of State for Foreign Affairs",
+      "Sec. of State for War and the Colonies",
+      "Leader of the House of Lords"
+    ],
+    "party": "Tory",
+    "id": 28
+  },
+  {
+    "style": "The Right Honourable",
     "name": "Robert Peel",
+    "end_date": "1835-04-08",
+    "start_date": "1834-12-10",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Chancellor of the Exchequer",
+      "Leader of the House of Commons"
+    ],
     "party": "Conservative",
+    "id": 29
+  },
+  {
     "style": "The Right Honourable",
+    "name": "William Lamb",
+    "end_date": "1841-08-30",
+    "start_date": "1834-04-18",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
+    "party": "Whig",
+    "id": 30
+  },
+  {
+    "style": "The Right Honourable",
+    "name": "Robert Peel",
     "end_date": "1846-06-29",
-    "id": 31,
-    "start_date": "1841-08-30"
+    "start_date": "1841-08-30",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Commons"
+    ],
+    "party": "Conservative",
+    "id": 31
   },
   {
-    "name": "John Russell",
-    "party": "Whig",
     "style": "The Right Honourable",
+    "name": "John Russell",
     "end_date": "1852-02-21",
-    "id": 32,
-    "start_date": "1846-06-30"
-  },
-  {
-    "name": "Edward Smith-Stanley",
-    "party": "Conservative",
-    "style": "The Right Honourable",
-    "end_date": "1852-12-17",
-    "id": 33,
-    "start_date": "1852-02-23"
-  },
-  {
-    "name": "George Hamilton-Gordon",
-    "party": "Peelite",
-    "style": "The Right Honourable",
-    "end_date": "1855-01-30",
-    "id": 34,
-    "start_date": "1852-12-19"
-  },
-  {
-    "name": "Henry John Temple",
+    "start_date": "1846-06-30",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Commons"
+    ],
     "party": "Whig",
-    "style": "The Right Honourable",
-    "end_date": "1858-02-19",
-    "id": 35,
-    "start_date": "1855-02-06"
+    "id": 32
   },
   {
+    "style": "The Right Honourable",
     "name": "Edward Smith-Stanley",
+    "end_date": "1852-12-17",
+    "start_date": "1852-02-23",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
     "party": "Conservative",
-    "style": "The Right Honourable",
-    "end_date": "1859-06-11",
-    "id": 36,
-    "start_date": "1858-02-20"
+    "id": 33
   },
   {
+    "style": "The Right Honourable",
+    "name": "George Hamilton-Gordon",
+    "end_date": "1855-01-30",
+    "start_date": "1852-12-19",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
+    "party": "Peelite",
+    "id": 34
+  },
+  {
+    "style": "The Right Honourable",
     "name": "Henry John Temple",
-    "party": "Liberal",
-    "style": "The Right Honourable",
-    "end_date": "1865-10-18",
-    "id": 37,
-    "start_date": "1859-06-12"
+    "end_date": "1858-02-19",
+    "start_date": "1855-02-06",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Commons"
+    ],
+    "party": "Whig",
+    "id": 35
   },
   {
-    "name": "John Russell",
-    "party": "Liberal",
     "style": "The Right Honourable",
-    "end_date": "1866-06-26",
-    "id": 38,
-    "start_date": "1865-10-29"
-  },
-  {
     "name": "Edward Smith-Stanley",
+    "end_date": "1859-06-11",
+    "start_date": "1858-02-20",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
     "party": "Conservative",
+    "id": 36
+  },
+  {
     "style": "The Right Honourable",
+    "name": "Henry John Temple",
+    "end_date": "1865-10-18",
+    "start_date": "1859-06-12",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Commons"
+    ],
+    "party": "Liberal",
+    "id": 37
+  },
+  {
+    "style": "The Right Honourable",
+    "name": "John Russell",
+    "end_date": "1866-06-26",
+    "start_date": "1865-10-29",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
+    "party": "Liberal",
+    "id": 38
+  },
+  {
+    "style": "The Right Honourable",
+    "name": "Edward Smith-Stanley",
     "end_date": "1868-02-25",
-    "id": 39,
-    "start_date": "1866-06-28"
+    "start_date": "1866-06-28",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Lords"
+    ],
+    "party": "Conservative",
+    "id": 39
   },
   {
-    "name": "Benjamin Disraeli",
-    "party": "Conservative",
     "style": "The Right Honourable",
+    "name": "Benjamin Disraeli",
     "end_date": "1868-12-01",
-    "id": 40,
-    "start_date": "1868-02-27"
+    "start_date": "1868-02-27",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Commons"
+    ],
+    "party": "Conservative",
+    "id": 40
   },
   {
-    "name": "William Ewart Gladstone",
-    "party": "Liberal",
     "style": "The Right Honourable",
+    "name": "William Ewart Gladstone",
     "end_date": "1874-02-17",
-    "id": 41,
-    "start_date": "1868-12-03"
+    "start_date": "1868-12-03",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Commons",
+      "Chancellor of the Exchequer"
+    ],
+    "party": "Liberal",
+    "id": 41
   },
   {
+    "style": "The Right Honourable",
     "name": "Benjamin Disraeli",
-    "party": "Conservative",
-    "style": "The Right Honourable",
     "end_date": "1880-04-21",
-    "id": 42,
-    "start_date": "1874-02-20"
+    "start_date": "1874-02-20",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Commons",
+      "Lord Keeper of the Privy Seal",
+      "Leader of the House of Lords"
+    ],
+    "party": "Conservative",
+    "id": 42
   },
   {
-    "name": "William Ewart Gladstone",
-    "party": "Liberal",
     "style": "The Right Honourable",
+    "name": "William Ewart Gladstone",
     "end_date": "1885-06-09",
-    "id": 43,
-    "start_date": "1880-04-23"
+    "start_date": "1880-04-23",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Commons",
+      "Chancellor of the Exchequer"
+    ],
+    "party": "Liberal",
+    "id": 43
   },
   {
-    "name": "Robert Gascoyne-Cecil",
-    "party": "Conservative",
     "style": "The Most Honourable",
+    "name": "Robert Gascoyne-Cecil",
     "end_date": "1886-01-28",
-    "id": 44,
-    "start_date": "1885-06-23"
+    "start_date": "1885-06-23",
+    "portfolios_during_tenure": [
+      "Sec. of State for Foreign Affairs",
+      "Leader of the House of Lords"
+    ],
+    "party": "Conservative",
+    "id": 44
   },
   {
-    "name": "William Ewart Gladstone",
-    "party": "Liberal",
     "style": "The Right Honourable",
+    "name": "William Ewart Gladstone",
     "end_date": "1886-07-20",
-    "id": 45,
-    "start_date": "1886-01-01"
+    "start_date": "1886-01-01",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Lord Keeper of the Privy Seal",
+      "Leader of the House of Commons"
+    ],
+    "party": "Liberal",
+    "id": 45
   },
   {
-    "name": "Robert Gascoyne-Cecil",
-    "party": "Conservative",
     "style": "The Most Honourable",
+    "name": "Robert Gascoyne-Cecil",
     "end_date": "1892-08-11",
-    "id": 46,
-    "start_date": "1886-07-25"
+    "start_date": "1886-07-25",
+    "portfolios_during_tenure": [
+      "Leader of the House of Lords",
+      "First Lord of the Treasury",
+      "Sec.of State for Foreign Affairs"
+    ],
+    "party": "Conservative",
+    "id": 46
   },
   {
+    "style": "The Right Honourable",
     "name": "William Ewart Gladstone",
-    "party": "Liberal",
-    "style": "The Right Honourable",
     "end_date": "1894-03-02",
-    "id": 47,
-    "start_date": "1892-08-15"
+    "start_date": "1892-08-15",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Lord Keeper of the Privy Seal",
+      "Leader of the House of Commons"
+    ],
+    "party": "Liberal",
+    "id": 47
   },
   {
+    "style": "The Right Honourable",
     "name": "Archibald Primrose",
-    "party": "Liberal",
-    "style": "The Right Honourable",
     "end_date": "1895-06-22",
-    "id": 48,
-    "start_date": "1894-03-05"
+    "start_date": "1894-03-05",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Lord President of the Council",
+      "Leader of the House of Lords"
+    ],
+    "party": "Liberal",
+    "id": 48
   },
   {
-    "name": "Robert Gascoyne-Cecil",
-    "party": "Conservative",
     "style": "The Most Honourable",
+    "name": "Robert Gascoyne-Cecil",
     "end_date": "1902-07-11",
-    "id": 49,
-    "start_date": "1895-06-25"
+    "start_date": "1895-06-25",
+    "portfolios_during_tenure": [
+      "Leader of the House of Lords",
+      "Sec. of State for Foreign Affairs",
+      "Lord Keeper of the Privy Seal"
+    ],
+    "party": "Conservative",
+    "id": 49
   },
   {
+    "style": "The Right Honourable",
     "name": "Arthur Balfour",
-    "party": "Conservative",
-    "style": "The Right Honourable",
     "end_date": "1905-12-05",
-    "id": 50,
-    "start_date": "1902-07-11"
+    "start_date": "1902-07-11",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Commons"
+    ],
+    "party": "Conservative",
+    "id": 50
   },
   {
+    "style": "The Right Honourable",
     "name": "Henry Campbell-Bannerman",
-    "party": "Liberal",
-    "style": "The Right Honourable",
     "end_date": "1908-04-07",
-    "id": 51,
-    "start_date": "1905-12-05"
+    "start_date": "1905-12-05",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Commons"
+    ],
+    "party": "Liberal",
+    "id": 51
   },
   {
+    "style": "The Right Honourable",
     "name": "Herbert Henry Asquith",
-    "party": "Liberal",
-    "style": "The Right Honourable",
     "end_date": "1916-12-05",
-    "id": 52,
-    "start_date": "1908-04-07"
-  },
-  {
-    "name": "David Lloyd George",
+    "start_date": "1908-04-07",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Commons",
+      "Sec. of State for War"
+    ],
     "party": "Liberal",
+    "id": 52
+  },
+  {
     "style": "The Right Honourable",
+    "name": "David Lloyd George",
     "end_date": "1922-10-19",
-    "id": 53,
-    "start_date": "1916-12-06"
+    "start_date": "1916-12-06",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury"
+    ],
+    "party": "Liberal",
+    "id": 53
   },
   {
+    "style": "The Right Honourable",
     "name": "Bonar Law",
-    "party": "Conservative",
-    "style": "The Right Honourable",
     "end_date": "1923-05-20",
-    "id": 54,
-    "start_date": "1922-10-23"
+    "start_date": "1922-10-23",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Commons"
+    ],
+    "party": "Conservative",
+    "id": 54
   },
   {
-    "name": "Stanley Baldwin",
-    "party": "Conservative",
     "style": "The Right Honourable",
+    "name": "Stanley Baldwin",
     "end_date": "1924-01-16",
-    "id": 55,
-    "start_date": "1923-05-23"
+    "start_date": "1923-05-23",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Commons",
+      "Chancellor of the Exchequer"
+    ],
+    "party": "Conservative",
+    "id": 55
   },
   {
-    "name": "Ramsay MacDonald",
-    "party": "Labour",
     "style": "The Right Honourable",
+    "name": "Ramsay MacDonald",
     "end_date": "1924-11-04",
-    "id": 56,
-    "start_date": "1924-01-22"
+    "start_date": "1924-01-22",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Commons",
+      "Sec. of State for Foreign Affairs"
+    ],
+    "party": "Labour",
+    "id": 56
   },
   {
-    "name": "Stanley Baldwin",
-    "party": "Conservative",
     "style": "The Right Honourable",
+    "name": "Stanley Baldwin",
     "end_date": "1929-06-05",
-    "id": 57,
-    "start_date": "1924-11-04"
+    "start_date": "1924-11-04",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Commons"
+    ],
+    "party": "Conservative",
+    "id": 57
   },
   {
+    "style": "The Right Honourable",
     "name": "Ramsay MacDonald",
-    "party": "Labour",
-    "style": "The Right Honourable",
     "end_date": "1935-06-07",
-    "id": 58,
-    "start_date": "1929-06-05"
+    "start_date": "1929-06-05",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Commons"
+    ],
+    "party": "Labour",
+    "id": 58
   },
   {
+    "style": "The Right Honourable",
     "name": "Stanley Baldwin",
-    "party": "Conservative",
-    "style": "The Right Honourable",
     "end_date": "1937-05-28",
-    "id": 59,
-    "start_date": "1935-06-07"
+    "start_date": "1935-06-07",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Commons"
+    ],
+    "party": "Conservative",
+    "id": 59
   },
   {
+    "style": "The Right Honourable",
     "name": "Neville Chamberlain",
-    "party": "Conservative",
-    "style": "The Right Honourable",
     "end_date": "1940-05-10",
-    "id": 60,
-    "start_date": "1937-05-28"
+    "start_date": "1937-05-28",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Leader of the House of Commons"
+    ],
+    "party": "Conservative",
+    "id": 60
   },
   {
-    "name": "Winston Churchill",
-    "party": "Conservative",
     "style": "The Right Honourable",
+    "name": "Winston Churchill",
     "end_date": "1945-07-26",
-    "id": 61,
-    "start_date": "1940-05-10"
+    "start_date": "1940-05-10",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Minister of Defence",
+      "Leader of the House of Commons"
+    ],
+    "party": "Conservative",
+    "id": 61
   },
   {
+    "style": "The Right Honourable",
     "name": "Clement Atlee",
-    "party": "Labour",
-    "style": "The Right Honourable",
     "end_date": "1951-10-26",
-    "id": 62,
-    "start_date": "1945-07-26"
+    "start_date": "1945-07-26",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Minister of Defence"
+    ],
+    "party": "Labour",
+    "id": 62
   },
   {
+    "style": "The Right Honourable",
     "name": "Winston Churchill",
-    "party": "Conservative",
-    "style": "The Right Honourable",
     "end_date": "1955-04-06",
-    "id": 63,
-    "start_date": "1951-10-26"
+    "start_date": "1951-10-26",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Minister of Defence"
+    ],
+    "party": "Conservative",
+    "id": 63
   },
   {
+    "style": "The Right Honourable",
     "name": "Anthony Eden",
-    "party": "Conservative",
-    "style": "The Right Honourable",
     "end_date": "1957-01-10",
-    "id": 64,
-    "start_date": "1955-04-06"
+    "start_date": "1955-04-06",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury"
+    ],
+    "party": "Conservative",
+    "id": 64
   },
   {
+    "style": "The Right Honourable",
     "name": "Harold Macmillan",
-    "party": "Conservative",
-    "style": "The Right Honourable",
     "end_date": "1963-10-19",
-    "id": 65,
-    "start_date": "1957-01-10"
+    "start_date": "1957-01-10",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury"
+    ],
+    "party": "Conservative",
+    "id": 65
   },
   {
+    "style": "The Right Honourable",
     "name": "Alec Douglas-Home",
-    "party": "Conservative",
-    "style": "The Right Honourable",
     "end_date": "1964-10-16",
-    "id": 66,
-    "start_date": "1963-10-19"
+    "start_date": "1963-10-19",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury"
+    ],
+    "party": "Conservative",
+    "id": 66
   },
   {
-    "name": "Harold Wilson",
-    "party": "Labour",
     "style": "The Right Honourable",
+    "name": "Harold Wilson",
     "end_date": "1970-06-19",
-    "id": 67,
-    "start_date": "1964-10-16"
+    "start_date": "1964-10-16",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Minister for the Civil Service"
+    ],
+    "party": "Labour",
+    "id": 67
   },
   {
+    "style": "The Right Honourable",
     "name": "Edward Heath",
-    "party": "Conservative",
-    "style": "The Right Honourable",
     "end_date": "1974-03-04",
-    "id": 68,
-    "start_date": "1970-06-19"
+    "start_date": "1970-06-19",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Minister for the Civil Service"
+    ],
+    "party": "Conservative",
+    "id": 68
   },
   {
+    "style": "The Right Honourable",
     "name": "Harold Wilson",
-    "party": "Labour",
-    "style": "The Right Honourable",
     "end_date": "1976-04-05",
-    "id": 69,
-    "start_date": "1974-03-04"
+    "start_date": "1974-03-04",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Minister for the Civil Service"
+    ],
+    "party": "Labour",
+    "id": 69
   },
   {
+    "style": "The Right Honourable",
     "name": "James Callaghan",
-    "party": "Labour",
-    "style": "The Right Honourable",
     "end_date": "1979-05-04",
-    "id": 70,
-    "start_date": "1976-04-05"
+    "start_date": "1976-04-05",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Minister for the Civil Service"
+    ],
+    "party": "Labour",
+    "id": 70
   },
   {
+    "style": "The Right Honourable",
     "name": "Margaret Thatcher",
-    "party": "Conservative",
-    "style": "The Right Honourable",
     "end_date": "1990-11-28",
-    "id": 71,
-    "start_date": "1979-05-04"
+    "start_date": "1979-05-04",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Minister for the Civil Service"
+    ],
+    "party": "Conservative",
+    "id": 71
   },
   {
+    "style": "The Right Honourable",
     "name": "John Major",
-    "party": "Conservative",
-    "style": "The Right Honourable",
     "end_date": "1997-05-02",
-    "id": 72,
-    "start_date": "1990-11-28"
+    "start_date": "1990-11-28",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Minister for the Civil Service"
+    ],
+    "party": "Conservative",
+    "id": 72
   },
   {
+    "style": "The Right Honourable",
     "name": "Tony Blair",
-    "party": "Labour",
-    "style": "The Right Honourable",
     "end_date": "2007-06-27",
-    "id": 73,
-    "start_date": "1997-05-02"
-  },
-  {
-    "name": "Gordon Brown",
+    "start_date": "1997-05-02",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Minister for the Civil Service"
+    ],
     "party": "Labour",
+    "id": 73
+  },
+  {
     "style": "The Right Honourable",
+    "name": "Gordon Brown",
     "end_date": "2010-05-2010",
-    "id": 74,
-    "start_date": "2007-06-27"
+    "start_date": "2007-06-27",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Minister for the Civil Service"
+    ],
+    "party": "Labour",
+    "id": 74
   },
   {
+    "style": "The Right Honourable",
     "name": "David Cameron",
-    "party": "Conservative",
-    "style": "The Right Honourable",
     "end_date": "2016-07-13",
-    "id": 75,
-    "start_date": "2010-05-11"
+    "start_date": "2010-05-11",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Minister for the Civil Service"
+    ],
+    "party": "Conservative",
+    "id": 75
   },
   {
-    "name": "Theresa May",
-    "party": "Conservative",
     "style": "The Right Honourable",
+    "name": "Theresa May",
     "end_date": null,
-    "id": 76,
-    "start_date": "2016-07-13"
+    "start_date": "2016-07-13",
+    "portfolios_during_tenure": [
+      "First Lord of the Treasury",
+      "Minister for the Civil Service"
+    ],
+    "party": "Conservative",
+    "id": 76
   }
 ]
